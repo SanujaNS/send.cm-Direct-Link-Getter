@@ -2,6 +2,5 @@
 ## Simple Python Script to get direct links to send.cm links
 
 ### How to run,
-1. ```git clone "https://github.com/SanujaNS/send.cm-Direct-Link-Getter.git"
-``` 
+1. ```git clone "https://github.com/SanujaNS/send.cm-Direct-Link-Getter.git" ``` 
 2. 
