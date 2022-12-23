@@ -11,3 +11,8 @@
 List of links -->
 ```python3 sendcm_list.py```
 
+
+### For the list, seperate each link with space.
+```https://send.cm/745kb97l7m9t/Fights.Break.Sphere.E11.2018.720p.VIKI.WEB-DL.AAC2.0.x265-Imagine.mkv https://send.cm/pkrstckrv968/Fights.Break.Sphere.E12.2018.720p.VIKI.WEB-DL.AAC2.0.x265-Imagine.mkv https://send.cm/addjwh1ms08u/Fights.Break.Sphere.E13.2018.720p.VIKI.WEB-DL.AAC2.0.x265-Imagine.mkv https://send.cm/ujbe55xhbkcs/Fights.Break.Sphere.E14.2018.720p.VIKI.WEB-DL.AAC2.0.x265-Imagine.mkv https://send.cm/wblrgzmzytoc/Fights.Break.Sphere.E15.2018.720p.VIKI.WEB-DL.AAC2.0.x265-Imagine.mkv```
+
+Enjoy......
