@@ -1,4 +1,9 @@
 # send.cm-Direct-Link-Getter (Supports Files and Folders too)
+
+## **Important**
+***This repositorty has been archived.***
+- Now ```send.cm``` is using ```cloudflare``` cdn which prevent this script from properly working.
+
 ## Simple Python Script to get direct links to send.cm links
 
 ### How to run,
